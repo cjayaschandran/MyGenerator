@@ -1,0 +1,25 @@
+{
+  "name": "<%= appname %>",
+  "version": "<%= appversion %>",
+  "authors": [
+    "<%= appauthor %>","<%= appemail %>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "<%= applicense %>",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  
+  }  
+}
